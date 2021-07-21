@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to execute or resume training
-# Copyright 2019 Xiang Zhang
+# Copyright 2021 ServiceNow
 #
 # Usage: bash train.sh [data] [model] [threads] ...
 

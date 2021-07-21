@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Split lines in a text file
-# Copyright 2017 Xiang Zhang
+# Copyright 2021 ServiceNow
 #
 # Usage: bash split_lines.sh [lines] [input] [output_prefix]
 #

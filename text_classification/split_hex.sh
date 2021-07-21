@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Split lines in a hex data file
-# Copyright 2019 Xiang Zhang
+# Copyright 2021 ServiceNow
 #
 # Usage: bash split_lines.sh [lines] [input] [output_prefix]
 #

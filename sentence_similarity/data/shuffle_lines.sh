@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Shuffle lines in a text file
-# Copyright 2017 Xiang Zhang
+# Copyright 2021 ServiceNow
 #
 # Usage: bash shuffle_lines.sh [input] [output]
 

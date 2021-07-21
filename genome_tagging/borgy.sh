@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to start borgy job
-# Copyright 2019 Xiang Zhang
+# Copyright 2021 ServiceNow
 #
 # Usage: bash borgy.sh [memory] [data] [model] ...
 

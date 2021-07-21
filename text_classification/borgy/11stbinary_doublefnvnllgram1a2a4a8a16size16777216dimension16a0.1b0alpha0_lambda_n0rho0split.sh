@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Archived program command-line for experiment
-# Copyright 2019 Xiang Zhang All Rights Reserved
+# Copyright 2021 ServiceNow All Rights Reserved
 #
 # Usage: bash {this_file} [additional_options]
 

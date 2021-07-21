@@ -1,5 +1,5 @@
 # Convert from wav file to raw format of a certain frequency
-# Copyright Xiang Zhang 2020
+# Copyright ServiceNow 2021
 #
 # Usage: bash convert_raw.sh [format] [frequency] [input_directory] [output_directory]
 
