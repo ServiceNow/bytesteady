@@ -1,0 +1,13 @@
+# Format: kmer_range ram_needed
+# Must end with a blank line
+# You can comment out lines to avoid running some configs
+1 10
+2 10
+4 32
+8 64
+16 250
+1r16r1 250
+2r16r2 250
+4r16r4 250
+8r16r8 250
+1e2e4e8e16 250

@@ -1,0 +1,4 @@
+joblib
+pandas
+git+https://github.com/aldro61/patric_tools.git
+numpy
