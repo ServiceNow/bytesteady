@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2021 ServiceNow
 # Creates the Vowpal Wabbit baseline datasets
 # Usage: ./make_datasets kmer_configs
 

@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copyright 2021 ServiceNow
 
 MAX_PASSES=100
 N_CLASSES=6
