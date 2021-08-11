@@ -98,11 +98,12 @@ def get_genus_species_by_taxon_id(taxa):
     return taxon_info
 
 
+print("Creating output directories...")
+for dir in [GENOME_CONTIGS_DIR, GENOME_ANNOTATIONS_DIR, GENOME_SPECIALTYGENES_DIR]:
+    os.makedirs(dir, exist_ok=True)
+
+
 print("Downloading the metadata from PATRIC")
-# XXX: We use the "sequence" column instead of "contigs" to get the number of contigs
-#      See email conversation with James Davis (Argonne) on Sept. 17, 2017.
-# XXX: Since January 2020, we are back to using "contigs" to get the number of contigs. The "sequences" column contains
-#      only NaNs, which is assumed to be due to deprecation.
 metadata = pd.read_table(
     get_latest_metadata(TMPDIR),
     usecols=[
