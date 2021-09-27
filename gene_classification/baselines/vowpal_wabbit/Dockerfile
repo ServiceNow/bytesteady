@@ -1,4 +1,4 @@
-FROM images.borgy.elementai.net/eai-ocso:latest
+FROM ubuntu:latest
 
 RUN apt update && \
     apt install -y libboost-dev libboost-program-options-dev libboost-system-dev libboost-thread-dev libboost-math-dev libboost-test-dev libboost-python-dev zlib1g-dev cmake python3 python3-pip
