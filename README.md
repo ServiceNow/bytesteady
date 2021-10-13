@@ -40,3 +40,8 @@ $ bytesteady/bytesteady -helpon bytesteady/flags
 ```
 
 The `-helpon` is provided by Google gflags to show help for flags only defined in some source code file. For full help information, including flags from the other parts of the program (such as Google glog), simply use `-help`.
+
+
+## Gene classification dataset
+
+The gene classification dataset used in the paper can be downloaded at https://zenodo.org/record/5181235#.YWc4bG3MJb8.
