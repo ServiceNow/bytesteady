@@ -1,3 +1,5 @@
+*ServiceNow completed its acquisition of Element AI on January 8, 2021. All references to Element AI in the materials that are part of this project should refer to ServiceNow.*
+
 # byteSteady
 
 **A fast classification and tagging tool using byte-level n-gram embeddings**
@@ -6,12 +8,14 @@
 
 Please read our [[paper]](https://arxiv.org/abs/2106.13302) for details on byteSteady.
 
+```
 @article{zhang2021bytesteady,
   title={byteSteady: Fast Classification Using Byte-Level n-Gram Embeddings},
   author={Zhang, Xiang and Drouin, Alexandre and Li, Raymond},
   journal={arXiv preprint arXiv:2106.13302},
   year={2021}
 }
+```
 
 ## Dependencies
 
