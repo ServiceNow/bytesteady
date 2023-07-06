@@ -49,3 +49,6 @@ The `-helpon` is provided by Google gflags to show help for flags only defined i
 ## Gene classification dataset
 
 The gene classification dataset used in the paper can be downloaded at https://zenodo.org/record/5181235#.YWc4bG3MJb8.
+
+## Vulnerability Reporting
+Please notify psirt-oss@servicenow.com regarding any vulnerability reports in addition to following current reporting procedure.
